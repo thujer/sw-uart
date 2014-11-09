@@ -1,0 +1,7 @@
+
+
+sbit TXD1 = P3^4;            // T0   ... seriovy vystup druheho kanalu
+sbit RXD1 = P3^3;            // INT1 ... seriovy vstup druheho kanalu
+sbit DIR1 = P0^0;            //          rízeni smeru toku dat
+
+
